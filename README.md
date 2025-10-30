@@ -14,7 +14,7 @@ Estudiante de Platzi apasionado por la tecnología y el aprendizaje continuo. Ac
 ## 💼 Experiencia profesional
 
 - **Gerente de oficina en [Crezcamos](https://www.crezcamos.com/)** (2021 - presente)
-  - 4 años liderando equipos y administrando una oficina con importante saldo de cartera.
+  - 2 años liderando equipos y administrando una oficina con importante saldo de cartera.
   - Experiencia en gestión de ventas, liderazgo y desarrollo de talento humano.
   - Habilidades en organización, trabajo en equipo y enfoque en resultados.
 
