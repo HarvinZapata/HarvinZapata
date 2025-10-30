@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Harvin Zapata
 
-<!--
-**HarvinZapata/HarvinZapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Platzi apasionado por la tecnología y el aprendizaje continuo. Actualmente estoy enfocado en el desarrollo web y participando como contributor en diversos proyectos.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y áreas de estudio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Desarrollo Web**: HTML, CSS, JavaScript
+- **Backend**: Python
+- **Bases de Datos**:
+  - Relacionales: SQL, PostgreSQL
+  - No relacionales: (en proceso de aprendizaje)
+- **Buenas prácticas**: Git y GitHub para control de versiones y colaboración
+
+## ✨ Experiencia
+
+- Contribuidor en proyectos open source y colaborativos
+- En constante formación y participación en la comunidad de Platzi
+
+## 🎯 Objetivos
+
+- Mejorar mis habilidades como desarrollador web full stack
+- Participar en proyectos reales que impacten positivamente
+- Aprender nuevas tecnologías y compartir conocimiento
+
+## 📫 ¿Quieres conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/harvin-andres-zapata-vidal-018b9523a/) *(Agrega tu perfil si lo tienes)*
+- [Twitter](#) *(Agrega tu perfil si lo tienes)*
+- ¡O simplemente envíame un mensaje aquí en GitHub!
+
+---
+
+> "El aprendizaje nunca termina, y el mejor proyecto es el que te impulsa a seguir creciendo." 🚀
